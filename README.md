@@ -1,6 +1,6 @@
 # Chocolate Sunset
 
-![Screenshot](screen.png)
+![Screenshot](screenshot.png)
 
 The Chocolate Sunset theme for mocp (for high color count terminals).
 
